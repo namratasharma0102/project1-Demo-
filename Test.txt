@@ -1,3 +1,4 @@
-demo version 
-dashdasgd fdjsfjsf
-demo version 1 
+This is a git file
+To check all the commands
+Make directory make it git repository
+add and delete some line ad commin and push or pull to see changes
